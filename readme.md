@@ -1,3 +1,5 @@
+The Matlab implementaion of the pESCA (penalized exponential familay simultaneous component analysis) models with various concave penalties. The pESCA model with the group concave (concave L2 norm) penalty is used in my previous paper "Separating common (global and local) and distinct variation in multiple mixed types data sets", \url{https://arxiv.org/abs/1902.06241}. 
+
 ---
 title: "Demos and algorithms for the fitting and selection of the P-ESCA model"
 author: "Yipeng Song, Biosystems Data Analysis Group, University of Amsterdam"
